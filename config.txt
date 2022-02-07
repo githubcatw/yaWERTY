@@ -1,0 +1,5 @@
+;!@Install@!UTF-8!
+Title="Russian - YAWERTY"
+BeginPrompt="Do you want to install the Russian - YAWERTY keyboard?"
+RunProgram="setup.exe"
+;!@InstallEnd@!
