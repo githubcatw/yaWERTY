@@ -10,19 +10,20 @@ If you get a "Windows protected your PC" message, click "More info" and then "Ru
 
 You will be asked if you want to install the keyboard layout. Click Yes.
 
-<img src="img/setup_1.png" width="auto" height="400">
+<img src="img/setup_1.png" width="auto" height="200">
 
 After some time you should get an "Installation Complete" message.
 
-<img src="img/setup_2.png" width="auto" height="400">
+<img src="img/setup_2.png" width="auto" height="200">
 
 After installing you should have a Russian option in the Windows language bar:
 
-<img src="img/w10_language_bar.png width="auto" height="200"/>
+| Windows 10  | Windows 7   |
+| ----------- | ----------- |
+| <img src="img/w10_language_bar.png" width="auto" height="200"/> | <img src="img/w7_language_bar.png" width="auto" height="200"/> |
 
-<img src="img/w7_language_bar.png width="auto" height="200"/>
 
-To switch keyboard layouts press `⊞`+`Space` or `Alt`+`Shift`.
+To switch keyboard layouts press `⊞`+`Space` (Windows 8 or later) or `Alt`+`Shift`.
 
 ## Building the installer
 First, set up the build environment (has to be performed once):
