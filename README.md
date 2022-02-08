@@ -4,7 +4,9 @@ Russian ЯВЕРТЫ keyboard layout for Windows.
 ## Installation
 Go to the [latest release](https://github.com/githubcatw/yaWERTY/releases/latest), download `RuYAWERTY.exe` and open it.
 
-If you get a "Windows protected your PC" message, click "More info" and then "Run anyway". Russian ЯВЕРТЫ doesn't contain malware and only installs a keyboard layout.
+If you are asked to allow changes, click Allow.
+
+If you get a "Windows protected your PC" message, click "More info" and then "Run anyway". **Russian ЯВЕРТЫ doesn't contain malware and only installs a keyboard layout.**
 
 <img src="img/smartscreen.png" width="auto">
 
