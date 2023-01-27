@@ -1,4 +1,4 @@
-# yaWERTY
+# yaWERTY ![Download counter](https://img.shields.io/github/downloads/githubcatw/yaWERTY/latest/total?color=%23aaaaa&label=downloads)
 Russian ЯВЕРТЫ keyboard layout for Windows.
  
 ## Installation
@@ -20,7 +20,7 @@ After some time you should get an "Installation Complete" message.
 
 After installing you should have a Russian option in the Windows language bar:
 
-| Windows 10  | Windows 7   |
+| Windows 10, 11  | Windows 7   |
 | ----------- | ----------- |
 | <img src="img/w10_language_bar.png" width="auto" height="200"/> | <img src="img/w7_language_bar.png" width="auto" height="200"/> |
 
