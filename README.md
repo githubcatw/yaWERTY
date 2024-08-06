@@ -33,7 +33,7 @@ First, set up the build environment (has to be performed once):
 2. Copy `bin/7zSD.sfx` to this folder.
 
 Then, build:
-1. Build the layout in MS KLC.
+1. Build the layout in MS KLC by going to Project > Build DLL and Setup Package.
 2. Copy the resulting "ruyawert" folder here.
 3. Compress **the contents** of the folder into a 7-Zip archive named `ruyawert.7z` and place it in the `ruyawert` folder. **If you compress the folder you will get a "File is corrupt" error when attempting to install the keyboard**
 4. Run `build.bat`.
