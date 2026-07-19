@@ -29,7 +29,7 @@ To switch keyboard layouts press `⊞`+`Space` (Windows 8 or later) or `Alt`+`Sh
 
 ## Building the installer
 First, set up the build environment (has to be performed once):
-1. Download and extract the LZMA SDK from [here](https://www.7-zip.org/a/lzma1900.7z).
+1. Download and extract the LZMA SDK from [here](https://www.7-zip.org/a/lzma2602.7z).
 2. Copy `bin/7zSD.sfx` to this folder.
 
 Then, build:
