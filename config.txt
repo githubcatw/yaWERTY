@@ -1,5 +1,5 @@
 ;!@Install@!UTF-8!
-Title="Russian - ЯВЕРТЫ"
+Title="Russian - ЯВЕРТЫ (v1.1 beta 1)"
 BeginPrompt="Do you want to install the ЯВЕРТЫ keyboard layout?"
 RunProgram="setup.exe"
 ;!@InstallEnd@!
